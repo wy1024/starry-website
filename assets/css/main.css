@@ -1876,22 +1876,22 @@
 					background: #df7b77;
 				}
 
-			.icon.circle.fa-github {
-				background: #dcad8b;
+			.icon.circle.fa-wechat {
+				background: rgb(57, 169, 56);
 				color: #fff;
 			}
 
-				.icon.circle.fa-github:hover {
-					background: #e1b89b;
+				.icon.circle.fa-wechat:hover {
+					background: #2A9030;
 				}
 
-			.icon.circle.fa-dribbble {
-				background: #da83ae;
+			.icon.circle.fa-weibo {
+				background: #E34B4B;
 				color: #fff;
 			}
 
-				.icon.circle.fa-dribbble:hover {
-					background: #df93b8;
+				.icon.circle.fa-weibo:hover {
+					background: #C02A3B;
 				}
 
 		.icon.featured {
